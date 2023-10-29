@@ -5,9 +5,11 @@
 }
 h1 {
     font-size: 30px;
+    font-weight: 900;
     text-align: center;
 }
 h2 {
+    font-weight: 600;
     font-size: 20px;
 }
 .topimage {
@@ -15,4 +17,7 @@ h2 {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+}
+.bodytext {
+    color: rgb(21, 9, 80);
 }
